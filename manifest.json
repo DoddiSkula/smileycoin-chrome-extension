@@ -1,0 +1,23 @@
+{
+    "name": "SmileyCoin",
+    "description": "The official extension for the cryptocurrency Smileycoin (SMLY).",
+    "version": "1.0",
+    "manifest_version": 3,
+    "web_accessible_resources": [{
+        "resources": ["./scripts/*"],
+        "matches": ["<all_urls>"]
+    }
+    ],
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "/img/smiley.png",
+        "default_title": "SmileyCoin"
+    },
+    "icons": {
+        "16": "/img/smiley.png",
+        "32": "/img/smiley.png",
+        "48": "/img/smiley.png",
+        "128": "/img/smiley.png"
+    }
+}
