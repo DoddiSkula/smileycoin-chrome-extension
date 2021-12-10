@@ -11,9 +11,9 @@ The extension includes:
 
 ## Screenshots
 <p float="left" style="margin-top: 1rem">
-  <img src="./screenshots/converter.PNG" style="margin-right: 1rem"/>
-  <img src="./screenshots/market.PNG" style="margin-right: 1rem"/> 
-  <img src="./screenshots/links.PNG"/>
+  <img src="./screenshots/converter.PNG" style="margin-right: 1rem" width="250"/>
+  <img src="./screenshots/market.PNG" style="margin-right: 1rem" width="250"/> 
+  <img src="./screenshots/links.PNG" width="250"/>
 </p>
 
 ## About
