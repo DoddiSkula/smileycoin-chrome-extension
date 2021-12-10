@@ -9,9 +9,16 @@ The extension includes:
 - Today's top cryptocurrencies prices by market cap
 - Shortcut to Smileycoin's official website, the Smileycoin HTML wallet and a blockchain explorer
 
+## Screenshots
+<p float="left" style="margin-top: 1rem">
+  <img src="./screenshots/converter.PNG" style="margin-right: 1rem"/>
+  <img src="./screenshots/market.PNG" style="margin-right: 1rem"/> 
+  <img src="./screenshots/links.PNG"/>
+</p>
+
 ## About
 
-This extension was made as a final project in a cryptocurrency course at the University of Iceland.
+This extension was made as a final project for a cryptocurrency course at the University of Iceland.
 
 Made by:
 
