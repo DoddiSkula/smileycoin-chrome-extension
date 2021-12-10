@@ -10,18 +10,11 @@ The extension includes:
 - Shortcut to Smileycoin's official website, the Smileycoin HTML wallet and a blockchain explorer
 
 ## Screenshots
-<table>
-  <tr>
-    <td>Currency converter</td>
-     <td>Top cryptocurrencies by market cap</td>
-     <td>Smileycoin shortcuts</td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/converter.png" width=250></td>
-    <td><img src="./screenshots/market.png" width=250></td>
-    <td><img src="./screenshots/links.png" width=250></td>
-  </tr>
- </table>
+<p>
+  <img src="./screenshots/converter.PNG" style="margin-right: 1rem" width="250"/>
+  <img src="./screenshots/market.PNG" style="margin-right: 1rem" width="250"/> 
+  <img src="./screenshots/links.PNG" width="250"/>
+</p>
 
 ## About
 
