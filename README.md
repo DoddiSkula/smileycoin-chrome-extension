@@ -10,7 +10,7 @@ The extension includes:
 - Shortcut to Smileycoin's official website, the Smileycoin HTML wallet and a blockchain explorer
 
 ## Screenshots
-<p float="left" style="margin-top: 1rem">
+<p>
   <img src="./screenshots/converter.PNG" style="margin-right: 1rem" width="250"/>
   <img src="./screenshots/market.PNG" style="margin-right: 1rem" width="250"/> 
   <img src="./screenshots/links.PNG" width="250"/>
