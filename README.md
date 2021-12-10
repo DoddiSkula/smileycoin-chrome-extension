@@ -17,9 +17,9 @@ The extension includes:
      <td>Smileycoin shortcuts</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/converter.png" width=270></td>
-    <td><img src="./screenshots/market.png" width=270></td>
-    <td><img src="./screenshots/links.png" width=270></td>
+    <td><img src="./screenshots/converter.png" width=250></td>
+    <td><img src="./screenshots/market.png" width=250></td>
+    <td><img src="./screenshots/links.png" width=250></td>
   </tr>
  </table>
 
