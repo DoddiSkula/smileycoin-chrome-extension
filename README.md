@@ -1,6 +1,8 @@
 # SmileyCoin Chrome Extension
 
-Download the extension here: (coming soon)
+Download the extension from the Chrome Web Store:
+
+https://chrome.google.com/webstore/detail/smileycoin/ogdildbdenfonlkllgebljaodbiijkfh?utm_source=chrome-ntp-icon
 
 The official Chrome extension for the cryptocurrency [Smileycoin](https://smileyco.in/#/) (SMLY). 
 
